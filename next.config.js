@@ -13,6 +13,10 @@ const nextConfig = {
       "upload.wikimedia.org",
     ],
   },
+  env: {
+    mapbox_key:
+      "pk.eyJ1IjoibmlraGlsa3IiLCJhIjoiY2xkazAxcjU5MDFvdzN1bzM4MG9xOGtnNSJ9.7cWrPNYL9QfIt3CifRmArQ",
+  },
 };
 
 module.exports = nextConfig;
